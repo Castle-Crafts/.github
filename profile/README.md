@@ -20,7 +20,7 @@ Castle Craft offers architect-level functionality while remaining accessible and
 ---
 
 ## Overview
-![castle-craft-medieval-fortress-design-dashboard](https://images.squarespace-cdn.com/content/v1/6078d9cc54de825d5d26afe6/471912ca-8c8f-4e20-97d0-42a9ee91c633/Building01.png)
+![castle-craft-medieval-fortress-design-dashboard](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAFlokoRvToUPFlDY4a4mn2Y4iZjCF3ig_Qg&s)
 
 ---
 
